@@ -94,6 +94,10 @@ class Enemy:
         """Reduce stress levels"""
         self.stress = max(0, self.stress - amount)
     
+    def restore_caffeine(self, amount: int):
+        """Restore caffeine levels"""
+        self.caffeine = min(self.caffeine + amount, self.max_caffeine)
+    
     def choose_action(self, player) -> Dict:
         """AI chooses what action to take"""
         available_actions = []
