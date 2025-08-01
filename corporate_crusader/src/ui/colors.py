@@ -1,0 +1,54 @@
+"""
+Color palette for Corporate Crusader UI
+Professional corporate colors with some humor
+"""
+
+# Main UI colors
+CORPORATE_BLUE = (28, 59, 100)
+CORPORATE_GRAY = (108, 117, 125)
+EXECUTIVE_WHITE = (248, 249, 250)
+INTERN_BLACK = (33, 37, 41)
+
+# Status colors
+HEALTH_GREEN = (40, 167, 69)
+CAFFEINE_BROWN = (102, 58, 25)
+STRESS_RED = (220, 53, 69)
+EXPERIENCE_GOLD = (255, 193, 7)
+
+# Rarity colors
+COMMON_WHITE = (255, 255, 255)
+UNCOMMON_GREEN = (40, 167, 69)
+RARE_BLUE = (0, 123, 255)
+LEGENDARY_ORANGE = (255, 133, 27)
+
+# Text colors
+TEXT_DARK = (33, 37, 41)
+TEXT_LIGHT = (248, 249, 250)
+TEXT_MUTED = (108, 117, 125)
+TEXT_WARNING = (220, 53, 69)
+TEXT_SUCCESS = (40, 167, 69)
+
+# Background colors
+BG_LIGHT = (255, 255, 255)
+BG_DARK = (52, 58, 64)
+BG_ACCENT = (233, 236, 239)
+BG_HOVER = (222, 226, 230)
+
+# Button colors
+BUTTON_PRIMARY = (0, 123, 255)
+BUTTON_SECONDARY = (108, 117, 125)
+BUTTON_SUCCESS = (40, 167, 69)
+BUTTON_DANGER = (220, 53, 69)
+BUTTON_WARNING = (255, 193, 7)
+
+# Corporate theme colors
+OFFICE_BEIGE = (245, 245, 220)
+CUBICLE_GRAY = (169, 169, 169)
+FLUORESCENT_WHITE = (255, 255, 240)
+PRINTER_INK_BLACK = (25, 25, 25)
+
+# Special effect colors
+MEETING_DREAD = (139, 0, 0)
+COFFEE_BUZZ = (160, 82, 45)
+PROMOTION_SHINE = (255, 215, 0)
+LAYOFF_SHADOW = (105, 105, 105)
